@@ -1,4 +1,4 @@
-# data-visualisation-python
+# Data Visualisation with Python libraries: matplotlib, seaborn, holoviews
 
 In this repository, I have applied an exploratory data visualization script designed to analyze and visualize customer data across various retail outlets. It leverages Python libraries such as matplotlib, seaborn, pandas, and holoviews to perform data analysis, generate visualizations, and explore correlations between different data features.
 
