@@ -4,16 +4,16 @@ In this repository, I have applied an exploratory data visualization script desi
 
 Process:
 
-  1.	Setup
-	2.	Data Import
-	3.	Data Exploration and Summarization
-	4.	Visualizations
-	•	Bar Chart for Total Customers by Outlets
-	•	Segmenting Customers (Manual)
-	•	Heatmap for Correlation
-	•	Line Chart for Time Series
-	•	Box Plots
-	•	Radar Charts
-	•	Comparative Bar Chart
-	•	Interactive Plots
+1. Setup <br>
+2. Data Import <br>
+3. Data Exploration and Summarization <br>
+4. Visualizations <br>
+   Bar Chart for Total Customers by Outlets <br>
+   Segmenting Customers  <br>
+   Heatmap for Correlation <br>
+   Line Chart for Time Series <br>
+   Box Plots <br>
+   Radar Charts <br>
+   Comparative Bar Chart <br>
+   Interactive Plots <br>
 
